@@ -1,5 +1,5 @@
 # Meta_React_Native_Working_With_Data_Final
-This showcases my final project from the [Working With Data course](https://www.coursera.org/learn/meta-working-with-data?specialization=meta-react-native). In this project we worked with data in `react-native`, we fetched from an `API` and used an `embedded database`, `SQLite`, as a sort of 'in-house' database for `CRUD` operations.
+This showcases my final project from the [Working With Data course](https://www.coursera.org/learn/meta-working-with-data?specialization=meta-react-native). In this project I worked with data in `react-native`, I fetched from an `API` and used an `embedded database`, `SQLite`, as a sort of 'in-house' database for `CRUD` operations.
 
 ## The Objective
 This is a menu for Little Lemon with the objective of:
